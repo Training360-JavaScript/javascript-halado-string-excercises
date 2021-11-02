@@ -3,7 +3,7 @@
 
 **A 04-string mappán belül kell dolgoznod!**  
 **A HTML fájlokat ne módosítsd!** 
-**Az export utasításokat hagyd a file-ok végén!**
+**Az export utasításokat hagyd a file-ok végén!**       
 **Az `npm run test:string` parancs futtatásával tudod futtatni a teszteket!**
 
 1. Írj egy függvényt `objectsMerge` néven, amely paraméterként tetszőleges darabszámú objektumot merge-öl össze, majd visszatér ezzel az objektummal!
