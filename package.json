@@ -1,7 +1,7 @@
 {
   "name": "javascript-advanced",
   "version": "1.0.0",
-  "description": "A Training360 5 napos JavaScript haladó képzésének forrásfilejai a videók nélkül. A tananyag 19 modult tartalmaz, a videós anyag 15 órányi,  194 videó.",
+  "description": "A Training360 5 napos JavaScript haladó képzésének forrásfájljai a videók nélkül. A tananyag 19 modult tartalmaz, a videós anyag 15 órányi, 194 videó.",
   "main": "index.js",
   "type": "module",
   "scripts": {
