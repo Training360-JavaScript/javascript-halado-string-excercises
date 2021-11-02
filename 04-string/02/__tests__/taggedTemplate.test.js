@@ -7,7 +7,7 @@ const normalizeStr = (str) => str
   .trim();
 
 describe('taggedTemplate ', () => {
-  test('should return an html template ', () => {
+  test('should return an HTML template ', () => {
     const user = {
       firstName: 'James',
       lastName: 'Bond',

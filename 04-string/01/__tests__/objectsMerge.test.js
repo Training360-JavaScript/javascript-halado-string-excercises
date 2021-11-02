@@ -1,9 +1,9 @@
 import objectsMerge from '../solution/js/objectsMerge';
 
 describe('objectsMerge ', () => {
-  test('should return a concated object', () => {
+  test('should return a concatenated object', () => {
     const johnDoe = {
-      firstName: 'Jonh',
+      firstName: 'John',
       lastName: 'Doe',
     };
 
@@ -16,7 +16,7 @@ describe('objectsMerge ', () => {
 
     const expected = {
       0: {
-        firstName: 'Jonh',
+        firstName: 'John',
         lastName: 'Doe',
       },
       1: {
