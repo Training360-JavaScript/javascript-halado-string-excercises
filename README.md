@@ -2,7 +2,9 @@
 # Feladatok
 
 **A 04-string mappán belül kell dolgoznod!**  
-**Az `npm run test:string` parancs futtatásával tudod ellenőrizni a tesztjeidet!**
+**A HTML fájlokat ne módosítsd!** 
+**Az export utasításokat hagyd a file-ok végén!**
+**Az `npm run test:string` parancs futtatásával tudod futtatni a teszteket!**
 
 1. Írj egy függvényt `objectsMerge` néven, amely paraméterként tetszőleges darabszámú objektumot merge-öl össze, majd visszatér ezzel az objektummal!
 Az összefűzést úgy hajtsa végre, hogy az új objektum property-jei egyszerű indexek legyenek (0, 1, 2 stb.), amelyek tartalmazzák 
